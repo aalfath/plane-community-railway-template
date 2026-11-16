@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.3-1 (2026-11-16)
+
+- README: Deploy on Railway button for the published template (`plane-3`). No change to what gets deployed.
+
 ## 1.4.3 (2026-11-16)
 
 First release of the template.

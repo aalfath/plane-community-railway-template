@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/plane-3?utm_medium=integration&utm_source=button&utm_campaign=plane)
+
 # Plane on Railway
 
 Railway template for [Plane](https://plane.so) Community Edition, the open-source project management tool (issues, cycles, modules, pages and views). This repository is what the template builds, so a merge to `main` reaches everyone who deployed it as an "update available" notice on Railway.
