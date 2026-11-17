@@ -4,7 +4,7 @@
 
 Railway template for [Plane](https://plane.so) Community Edition, the open-source project management tool (issues, cycles, modules, pages and views). This repository is what the template builds, so a merge to `main` reaches everyone who deployed it as an "update available" notice on Railway.
 
-**Version:** Plane **v1.4.3**, official all-in-one image `makeplane/plane-aio-community:v1.4.3@sha256:07ead622af2cd7ae200845a3a37076ee68f36c529e281309dd7801ad1dd5a009`.
+**Version:** Plane **v1.5.0**, official all-in-one image `makeplane/plane-aio-community:v1.5.0@sha256:16a2680cc7ab0c1ef86396905563816246692e32302154cb2a4f335276ac03b0`.
 
 ## What it deploys
 
