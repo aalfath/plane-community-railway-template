@@ -1,7 +1,7 @@
 # Plane Community Edition, official all-in-one image: web app, space, god-mode
 # admin, live editor server, API, Celery worker and beat, and the Caddy proxy.
 # Pinned by version and digest. To update, change both and add a CHANGELOG entry.
-FROM makeplane/plane-aio-community:v1.4.3@sha256:07ead622af2cd7ae200845a3a37076ee68f36c529e281309dd7801ad1dd5a009
+FROM makeplane/plane-aio-community:v1.5.0@sha256:16a2680cc7ab0c1ef86396905563816246692e32302154cb2a4f335276ac03b0
 
 # Same programs as upstream, but logging to stdout so Railway shows them,
 # and with the Celery worker count capped.
